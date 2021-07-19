@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning in HCMUTE
 - 🌱 I’m currently learning C#
-- 💬 Ask me about Winform and .NET
+- 💬 Ask me about Winform and .NET, Nodejs
 - 📫 How to reach me: [Facebook - LeeHari](https://www.facebook.com/ngochai131)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 100% developer know StackOverflow

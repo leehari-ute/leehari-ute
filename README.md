@@ -1,7 +1,7 @@
 ### LeeHari :tada: :tada:
 
 - 🔭 I’m currently learning in HCMUTE
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C#, Nodejs, TS, NestJS
 - 💬 Ask me about Winform and .NET, Nodejs
 - 📫 How to reach me: [Facebook - LeeHari](https://www.facebook.com/ngochai131)
 - 😄 Pronouns: He/Him

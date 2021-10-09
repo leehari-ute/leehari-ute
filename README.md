@@ -1,8 +1,8 @@
 ### LeeHari :tada: :tada:
 
 - 🔭 I’m currently learning in HCMUTE
-- 🌱 I’m currently learning C#, Nodejs, TS, NestJS
-- 💬 Ask me about Winform and .NET, Nodejs
+- 🌱 I’m currently learning C#, Spring Boot, NodeJS, TS, NestJS
+- 💬 Ask me about Winform and .NET, Nodejs, Spring Boot
 - 📫 How to reach me: [Facebook - LeeHari](https://www.facebook.com/ngochai131)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 100% developer know StackOverflow
@@ -16,4 +16,4 @@
    </a>
 </p>
 ### Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=theleehari&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=leehari-ute&show_icons=true&theme=tokyonight" />

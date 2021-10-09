@@ -16,4 +16,7 @@
    </a>
 </p>
 ### Github Stats
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=leehari-ute&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leehari-ute&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+</p>

@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently learning in HCMUTE
 - 🌱 I’m currently learning NodeJS, Spring Boot, NestJS, .NET
-- 📫 How to reach me: [Facebook - LeeHari](https://www.facebook.com/ngochai131)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 100% developer know StackOverflow
 ### Visitor

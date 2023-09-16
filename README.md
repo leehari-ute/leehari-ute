@@ -1,9 +1,10 @@
 ### LeeHari :tada: :tada:
 
-- 🔭 I’m currently learning in HCMUTE
-- 🌱 I’m currently learning NodeJS, Spring Boot, NestJS, .NET
+- 🔭 I graduted at HCMC UTE
+- 🌱 I'm currently working in DXC Technology Vietnam
+- ✔  I'm
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 100% developer know StackOverflow
+- ⚡ Fun fact: 100% of developers know StackOverflow
 ### Visitor
 <p align="center">
    Visitor count
@@ -18,7 +19,8 @@
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 [![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-
+[[![Angular Badge](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
+[[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 ### Github Stats
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=leehari-ute&show_icons=true&theme=tokyonight" />

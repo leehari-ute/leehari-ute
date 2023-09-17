@@ -1,8 +1,8 @@
 ### LeeHari :tada: :tada:
 
-- 🔭 I graduted at HCMC UTE
-- 🌱 I'm currently working in DXC Technology Vietnam
-- ✔  I'm
+- 🔭 I graduated from HCMC UTE.
+- 🌱 I'm currently working in DXC Technology Vietnam and have a role as a Frontend leader.
+- ✔  I have two years of experience with Angular.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 100% of developers know StackOverflow
 ### Visitor
